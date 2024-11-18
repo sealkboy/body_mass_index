@@ -1,0 +1,52 @@
+-------------------------------------------------------------------------------
+Test set: org.factoriaf5.imc.IMCTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 4, Skipped: 0, Time elapsed: 0.059 s <<< FAILURE! - in org.factoriaf5.imc.IMCTest
+testMostrarIMC(org.factoriaf5.imc.IMCTest)  Time elapsed: 0.009 s  <<< ERROR!
+java.lang.Error: 
+Unresolved compilation problems: 
+	IMCCalculator cannot be resolved to a type
+	IMCCalculator cannot be resolved to a type
+
+	at org.factoriaf5.imc.IMCTest.testMostrarIMC(IMCTest.java:59)
+
+testCalcularIMC(org.factoriaf5.imc.IMCTest)  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.Error: 
+Unresolved compilation problems: 
+	IMCCalculator cannot be resolved to a type
+	IMCCalculator cannot be resolved to a type
+	IMCCalculator cannot be resolved to a type
+	IMCCalculator cannot be resolved to a type
+	IMCCalculator cannot be resolved to a type
+	IMCCalculator cannot be resolved to a type
+
+	at org.factoriaf5.imc.IMCTest.testCalcularIMC(IMCTest.java:12)
+
+testObtenerCategoria(org.factoriaf5.imc.IMCTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.Error: 
+Unresolved compilation problems: 
+	IMCCalculator cannot be resolved to a type
+	IMCCalculator cannot be resolved to a type
+	IMCCalculator cannot be resolved
+	IMCCalculator cannot be resolved to a type
+	IMCCalculator cannot be resolved to a type
+	IMCCalculator cannot be resolved
+	IMCCalculator cannot be resolved to a type
+	IMCCalculator cannot be resolved to a type
+	IMCCalculator cannot be resolved
+	IMCCalculator cannot be resolved to a type
+	IMCCalculator cannot be resolved to a type
+	IMCCalculator cannot be resolved
+
+	at org.factoriaf5.imc.IMCTest.testObtenerCategoria(IMCTest.java:25)
+
+testObtenerResultado(org.factoriaf5.imc.IMCTest)  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.Error: 
+Unresolved compilation problems: 
+	IMCCalculator cannot be resolved to a type
+	IMCCalculator cannot be resolved to a type
+	IMCCalculator cannot be resolved to a type
+	IMCCalculator cannot be resolved to a type
+
+	at org.factoriaf5.imc.IMCTest.testObtenerResultado(IMCTest.java:45)
+
